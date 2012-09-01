@@ -7,4 +7,5 @@ Commands
 Permissions
 
 killall.all - allows a player to use /killallp command
+
 killall.immune - allows a player to not be killed when someone does /killallp
