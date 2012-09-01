@@ -1,0 +1,7 @@
+name: KillAll
+main: us.jophest.killall.KillAll
+version: 1.0
+author: JOPHESTUS
+description: Kills all players
+commands:
+    killallp:
